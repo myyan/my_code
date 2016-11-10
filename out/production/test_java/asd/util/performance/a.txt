@@ -1,9 +1,0 @@
-first line
-second line
-third line
-chen 1
-chen 2
-chen 3
-chen 4
-hao
-chen5
