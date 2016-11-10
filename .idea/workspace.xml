@@ -5,59 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="622db785-8da7-42ac-ba59-4b9488ad7f02" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/Builder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/byteCompute/Byte1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/code104/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/code104/ConvertUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/code104/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/code104/ServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/color/RainbowColor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/effective/Base.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/effective/SubBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/simplesort/Frequency.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/simplesort/TestEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/effective/SubClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/freeland/util/effective/SuperClass.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Stream.java" afterPath="$PROJECT_DIR$/src/Stream.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/DateFormatterUtil.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/DateFormatterUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/Group.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/Group.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/BuildTree.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/BuildTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/CountOne.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/CountOne.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/FindInteger.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/FindInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/FindK.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/FindK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/FindNthMax.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/FindNthMax.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/FindSecondMax.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/FindSecondMax.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/Java88.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/Java88.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/ListNode.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/ListNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/MyThreadLocal.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/MyThreadLocal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/ReplaceString.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/ReplaceString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/ReverseList.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/ReverseList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/TestGenerics.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/TestGenerics.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/TreeNode.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/TreeNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/code/Xor.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/code/Xor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/dp/m1.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/dp/m1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/11.txt" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/11.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/ClassName.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/ClassName.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/FileOp.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/FileOp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/Java8.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/Java8.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/Java8Test.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/Java8Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/Map2.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/Map2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/MapSort.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/MapSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/Person.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/Person.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/PredicateConsumer.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/PredicateConsumer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/Single.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/Single.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/Single1.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/Single1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/Singleton.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/Singleton.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/Student.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/Student.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/Test.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/TestSingleton.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/TestSingleton.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/TestSingleton2.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/TestSingleton2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/User.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/User.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/Wiggle.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/Wiggle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/a.txt" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/a.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/performance/a1.txt" afterPath="$PROJECT_DIR$/src/com/freeland/util/performance/a1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/simplesort/GroupBy.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/simplesort/GroupBy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/simplesort/InsertSort.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/simplesort/InsertSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/asd/util/simplesort/anyone.java" afterPath="$PROJECT_DIR$/src/com/freeland/util/simplesort/anyone.java" />
     </list>
     <ignored path="test_javaobject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,16 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Frequency.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/freeland/util/simplesort/Frequency.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/freeland/util/code104/Server.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,7 +64,7 @@
       <file leaf-file-name="Byte1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/freeland/util/byteCompute/Byte1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
+            <state relative-caret-position="616">
               <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
@@ -134,7 +74,7 @@
       <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/freeland/util/effective/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
+            <state relative-caret-position="176">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#178#179#0" expanded="true" />
@@ -145,16 +85,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubBase.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SubBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/freeland/util/effective/SubBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
+            <state relative-caret-position="566">
               <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/freeland/util/effective/SuperClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding>
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/freeland/util/effective/SubClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+              <folding>
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,7 +130,7 @@
       <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="1650">
               <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
               <folding />
             </state>
@@ -175,66 +142,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18458">
               <caret line="874" column="0" selection-start-line="874" selection-start-column="0" selection-end-line="874" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#60784#0" expanded="false" />
-                <element signature="e#6101#6102#0" expanded="false" />
-                <element signature="e#6171#6172#0" expanded="false" />
-                <element signature="e#7967#7968#0" expanded="false" />
-                <element signature="e#8013#8014#0" expanded="false" />
-                <element signature="e#9482#9483#0" expanded="false" />
-                <element signature="e#9528#9529#0" expanded="false" />
-                <element signature="e#10902#10903#0" expanded="false" />
-                <element signature="e#10948#10949#0" expanded="false" />
-                <element signature="e#15724#15725#0" expanded="false" />
-                <element signature="e#15779#15780#0" expanded="false" />
-                <element signature="e#32532#32533#0" expanded="false" />
-                <element signature="e#32566#32567#0" expanded="false" />
-                <element signature="e#33736#33737#0" expanded="false" />
-                <element signature="e#33771#33772#0" expanded="false" />
-                <element signature="e#33891#33892#0" expanded="false" />
-                <element signature="e#33919#33920#0" expanded="false" />
-                <element signature="e#34168#34169#0" expanded="false" />
-                <element signature="e#34202#34203#0" expanded="false" />
-                <element signature="e#34414#34415#0" expanded="false" />
-                <element signature="e#34449#34450#0" expanded="false" />
-                <element signature="e#34664#34665#0" expanded="false" />
-                <element signature="e#34700#34701#0" expanded="false" />
-                <element signature="e#35161#35162#0" expanded="false" />
-                <element signature="e#35199#35200#0" expanded="false" />
-                <element signature="e#35486#35487#0" expanded="false" />
-                <element signature="e#35532#35533#0" expanded="false" />
-                <element signature="e#35824#35825#0" expanded="false" />
-                <element signature="e#35852#35853#0" expanded="false" />
-                <element signature="e#37816#37817#0" expanded="false" />
-                <element signature="e#37859#37860#0" expanded="false" />
-                <element signature="e#46394#46395#0" expanded="false" />
-                <element signature="e#46458#46459#0" expanded="false" />
-                <element signature="e#47036#47037#0" expanded="false" />
-                <element signature="e#47092#47093#0" expanded="false" />
-                <element signature="e#47615#47616#0" expanded="false" />
-                <element signature="e#47675#47676#0" expanded="false" />
-                <element signature="e#48444#48445#0" expanded="false" />
-                <element signature="e#48491#48492#0" expanded="false" />
-                <element signature="e#56465#56466#0" expanded="false" />
-                <element signature="e#56523#56524#0" expanded="false" />
-                <element signature="e#57650#57651#0" expanded="false" />
-                <element signature="e#57708#57709#0" expanded="false" />
-                <element signature="e#59796#59797#0" expanded="false" />
-                <element signature="e#59824#59825#0" expanded="false" />
-                <element signature="e#60191#60192#0" expanded="false" />
-                <element signature="e#60228#60229#0" expanded="false" />
-                <element signature="e#60595#60596#0" expanded="false" />
-                <element signature="e#60632#60633#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConvertUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/freeland/util/code104/ConvertUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -266,8 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/asd/util/performance/student.java" />
-        <option value="$PROJECT_DIR$/src/asd/util/performance/Student.java" />
         <option value="$PROJECT_DIR$/src/asd/util/performance/PredicateConsumer.java" />
         <option value="$PROJECT_DIR$/src/asd/util/performance/Singleton.java" />
         <option value="$PROJECT_DIR$/src/asd/util/performance/ClassName.java" />
@@ -317,6 +222,8 @@
         <option value="$PROJECT_DIR$/src/com/freeland/util/effective/ImplementBase.java" />
         <option value="$PROJECT_DIR$/src/com/freeland/util/effective/Base.java" />
         <option value="$PROJECT_DIR$/src/com/freeland/util/effective/SubBase.java" />
+        <option value="$PROJECT_DIR$/src/com/freeland/util/effective/SuperClass.java" />
+        <option value="$PROJECT_DIR$/src/com/freeland/util/effective/SubClass.java" />
       </list>
     </option>
   </component>
@@ -364,8 +271,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -459,6 +364,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -477,27 +384,7 @@
       <recent name="asd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubBase">
-    <configuration default="false" name="m1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="asd.util.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="asd.util.dp.m1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="test_java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SubClass">
     <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -566,6 +453,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.freeland.util.effective.SubBase" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test_java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.freeland.util.effective.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.freeland.util.effective.SubClass" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1044,19 +951,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.m1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestEnum" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Byte1" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SubBase" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestEnum" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Byte1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SubBase" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SubClass" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SubBase" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Byte1" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestEnum" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="4" class="java.lang.String" itemvalue="Application.m1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SubClass" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SubBase" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Byte1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestEnum" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -1090,11 +997,12 @@
       <workItem from="1478254014196" duration="4449000" />
       <workItem from="1478693075954" duration="596000" />
       <workItem from="1478777020115" duration="1098000" />
+      <workItem from="1478821429365" duration="264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111242000" />
+    <option name="totallyTimeSpent" value="111506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="780" extended-state="0" />
@@ -1108,7 +1016,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32198143" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32043344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1182,20 +1090,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/freeland/util/performance/FileOp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="75" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/freeland/util/code/Xor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/freeland/util/code/CountOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -1266,9 +1160,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1456,7 +1347,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1464,7 +1354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1522,63 +1411,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18458">
           <caret line="874" column="0" selection-start-line="874" selection-start-column="0" selection-end-line="874" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#60784#0" expanded="false" />
-            <element signature="e#6101#6102#0" expanded="false" />
-            <element signature="e#6171#6172#0" expanded="false" />
-            <element signature="e#7967#7968#0" expanded="false" />
-            <element signature="e#8013#8014#0" expanded="false" />
-            <element signature="e#9482#9483#0" expanded="false" />
-            <element signature="e#9528#9529#0" expanded="false" />
-            <element signature="e#10902#10903#0" expanded="false" />
-            <element signature="e#10948#10949#0" expanded="false" />
-            <element signature="e#15724#15725#0" expanded="false" />
-            <element signature="e#15779#15780#0" expanded="false" />
-            <element signature="e#32532#32533#0" expanded="false" />
-            <element signature="e#32566#32567#0" expanded="false" />
-            <element signature="e#33736#33737#0" expanded="false" />
-            <element signature="e#33771#33772#0" expanded="false" />
-            <element signature="e#33891#33892#0" expanded="false" />
-            <element signature="e#33919#33920#0" expanded="false" />
-            <element signature="e#34168#34169#0" expanded="false" />
-            <element signature="e#34202#34203#0" expanded="false" />
-            <element signature="e#34414#34415#0" expanded="false" />
-            <element signature="e#34449#34450#0" expanded="false" />
-            <element signature="e#34664#34665#0" expanded="false" />
-            <element signature="e#34700#34701#0" expanded="false" />
-            <element signature="e#35161#35162#0" expanded="false" />
-            <element signature="e#35199#35200#0" expanded="false" />
-            <element signature="e#35486#35487#0" expanded="false" />
-            <element signature="e#35532#35533#0" expanded="false" />
-            <element signature="e#35824#35825#0" expanded="false" />
-            <element signature="e#35852#35853#0" expanded="false" />
-            <element signature="e#37816#37817#0" expanded="false" />
-            <element signature="e#37859#37860#0" expanded="false" />
-            <element signature="e#46394#46395#0" expanded="false" />
-            <element signature="e#46458#46459#0" expanded="false" />
-            <element signature="e#47036#47037#0" expanded="false" />
-            <element signature="e#47092#47093#0" expanded="false" />
-            <element signature="e#47615#47616#0" expanded="false" />
-            <element signature="e#47675#47676#0" expanded="false" />
-            <element signature="e#48444#48445#0" expanded="false" />
-            <element signature="e#48491#48492#0" expanded="false" />
-            <element signature="e#56465#56466#0" expanded="false" />
-            <element signature="e#56523#56524#0" expanded="false" />
-            <element signature="e#57650#57651#0" expanded="false" />
-            <element signature="e#57708#57709#0" expanded="false" />
-            <element signature="e#59796#59797#0" expanded="false" />
-            <element signature="e#59824#59825#0" expanded="false" />
-            <element signature="e#60191#60192#0" expanded="false" />
-            <element signature="e#60228#60229#0" expanded="false" />
-            <element signature="e#60595#60596#0" expanded="false" />
-            <element signature="e#60632#60633#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/freeland/util/byteCompute/Byte1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
+        <state relative-caret-position="616">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
@@ -1586,7 +1425,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
+        <state relative-caret-position="1650">
           <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
           <folding />
         </state>
@@ -1594,7 +1433,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/freeland/util/effective/Base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
+        <state relative-caret-position="176">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#178#179#0" expanded="true" />
@@ -1606,13 +1445,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/freeland/util/effective/SubBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
+        <state relative-caret-position="566">
           <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/freeland/util/effective/SuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding>
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/freeland/util/effective/SubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
           </folding>
         </state>
       </provider>
