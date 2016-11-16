@@ -26,6 +26,6 @@ public class GoldBridge {
      *
      * pronunciation pronounce
      *
-     * freeland 
+     * freeland
      * */
 }
