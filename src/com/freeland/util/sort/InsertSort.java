@@ -6,7 +6,7 @@ package com.freeland.util.sort;
 public class InsertSort {
     public static void main(String[] args) throws InterruptedException {
         int a = 1;
-        int b =2;
+        int b = 2;
         System.out.println(a);
         printC();
         System.out.println(b);
@@ -17,16 +17,12 @@ public class InsertSort {
             @Override
             public void run() {
                 try {
-                    print();
+                    Thread.sleep(1000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
+                System.out.println(3);
             }
         }).start();
-    }
-
-    public static void print() throws InterruptedException {
-        Thread.sleep(1000);
-        System.out.println(3);
     }
 }
