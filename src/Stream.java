@@ -11,7 +11,7 @@ import java.util.List;
  */
 class Stream1 {
     public static void main(String []args){
-//        String concat = Stream.of("A","B","C").reduce("",String::concat);
+//        String concat = Stream.of("Immutable","B","C").reduce("",String::concat);
 //        System.out.println(concat);
 //        LocalDate date = LocalDate.of(2015,11,10);
 //        System.out.println(date);
